@@ -3,12 +3,15 @@
   "version": "1.0.0",
   "description": "learning http",
   "main": "index.js",
-  "type":"module",
+  "type": "module",
   "scripts": {
     "dev": "node index.js",
     "test": "jest"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^25.0.0"
+  }
 }
