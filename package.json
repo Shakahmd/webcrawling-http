@@ -5,13 +5,10 @@
   "main": "index.js",
   "type":"module",
   "scripts": {
-    "dev":"node index.js",
+    "dev": "node index.js",
     "test": "jest"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "jest": "^29.7.0"
-  }
+  "license": "ISC"
 }
